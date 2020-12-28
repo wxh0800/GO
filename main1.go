@@ -112,5 +112,4 @@ func main() {
 	newPersonSalary := personSalary
 	newPersonSalary["mike"] = 18000
 	fmt.Println("Person salary changed", personSalary)
-
 }
